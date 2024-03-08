@@ -1,0 +1,36 @@
+img{
+    width: 400px;
+    height: 400px;
+    
+
+}
+.game{
+    background-color: white;
+    border-radius: 200px;
+    padding: 20px
+}
+.soccer{
+    background-color: white;
+    border-radius: 200px;
+    padding: 20px;
+}
+.base{
+    background-color: white;
+    border-radius: 200px;
+    padding: 20px;
+}
+.field{
+    display: flex;
+    margin-left: 100px;
+    margin-top: 80px;
+    
+    
+    
+}
+.grapes{
+    background-color:rgb(222, 203, 135)
+}
+.dot{
+    display: flex;
+    justify-content: space-between;
+
